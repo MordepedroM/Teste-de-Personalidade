@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt">
+
+<head>
+  <meta charset="utf-8" />
+
+  <title>Teste Personalidade</title>
+  <meta name="description" content="Descobre o teu tipo de Personalidade">
+  <meta name="author" content="Pedro Loureiro, pedro@antro.pt">
+  <meta name="robots" content="index,follow" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name=”keywords” content="antro, Pedro Loureiro, teste de personalidade, Teste Personalidade" />
+
+
+  <link rel="stylesheet" href="styles.css?v=1.0">
+
+  <script type="text/javascript" src="testePersonalidade.js"></script>
+</head>
+
+<body>
+  <h1>Teste de Personalidade</h1>
+  <p>Este Teste de personalidade é baseado em:</p>
+  <br>
+  <h4>Chalvin, Dominique, "L´affirmation de soi(5ªed.), Les Editions E.S.F.,Paris"</h4>
+  <br><br>
+
+  <hr>
+  <br>
+  <ul id="x">
+    
+  </ul>
+
+  <br><br>
+
+  <input id="sim" type='radio' value='sim' name="resposta">
+        <label id="lbls" for="sim"><b>Sim</b></label>
+        <br><br>
+        <p id="ou">ou</p>
+        <br>
+  <input id="nao" type='radio' value='nao' name="resposta">
+        <label id="lbln" for="nao"><b>Não</b></label>
+  
+  <br><br>
+  <p id="contador">__</p>
+  <br>
+
+  <p id="info">Responde <b>SIM</b> caso te identifiques com a afirmação ou <b>NÃO</b> caso não te identifiques.</p>
+
+  <br><br>
+  
+  <button id="bPrincipal" onclick="proximaPergunta()">Começar o teste</button>
+  <button id="repetir" value="Refresh Page" onClick="window.location.reload();">Repetir teste</button>
+ 
+<br><br>  
+<p><b>Resultados:</b></p>
+<br>
+<p id="resultadoAssertividade"><b>Atitude assertiva ou de auto-afirmação:</b> Completa o teste para saberes o teu resultado!</p>
+<br>
+<p id="resultadoManipulacao"><b>Atitude de manipulação:</b> Completa o teste para saberes o teu resultado!</p>
+<br>
+<p id="resultadoAgressividade"><b>Atitude autoritária ou agressiva:</b> Completa o teste para saberes o teu resultado!</p>
+<br>
+<p id="resultadoPassividade"><b>Atitude passiva ou de fuga:</b> Completa o teste para saberes o teu resultado!</p>
+<br>
+<p>*Entre 0 e 5 a intensidade no grupo de personalidade respectivo é considerada baixa, entre 5 e 10 média e de 10 a 15 é alta!</p>
+<hr>
+  
+   
+<br><br>
+<a href="https://play.google.com/store/apps/details?id=pt.antro.testedepersonalidade">Se gostou do teste porque não descarregar a aplicação para android? =)</a>
+
+
+</body>
+
+</html>
