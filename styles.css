@@ -1,0 +1,25 @@
+:root {
+  --bgColorContent: #CDCDCD;
+}
+
+* {
+margin: 0px;
+padding: 0px;
+}
+
+body {
+  text-align: center;
+  background-color: var(--bgColorContent);
+}
+
+#sim {
+  display:none;
+}
+
+#nao {
+  display:none;
+}
+
+#repetir{
+  display:none;
+}
