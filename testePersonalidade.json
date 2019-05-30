@@ -1,0 +1,304 @@
+{
+    "questoes":[
+        {
+            "afirmacao":"Digo muitas vezes SIM, quando, no fundo, quero dizer NÃO.",
+            "grupo":"Passivo",
+            "id":1
+        },
+        {
+            "afirmacao":"Defendo os meus direitos sem atentar contra os direitos dos outros.",
+            "grupo":"Assertivo",
+            "id":2
+        },
+        {
+            "afirmacao":"Quando não conheço bem uma pessoa, prefiro dissimular aquilo que penso ou sinto.",
+            "grupo":"Manipulador",
+            "id":3
+        },
+        {
+            "afirmacao":"Sou, na maior parte das vezes, autoritário/a e decidido/a.",
+            "grupo":"Agressivo",
+            "id":4
+        },
+        {
+            "afirmacao":"Geralmente, é mais fácil e mais engenhoso, atuar por interposta pessoa do que fazê-lo directamente.",
+            "grupo":"Manipulador",
+            "id":5
+        },
+        {
+            "afirmacao":"Não receio criticar os outros e dizer-lhes aquilo que penso.",
+            "grupo":"Agressivo",
+            "id":6
+        },
+        {
+            "afirmacao":"Não ouso recusar certas tarefas que não fazem parte das minhas atribuições.",
+            "grupo":"Passivo",
+            "id":7
+        },
+        {
+            "afirmacao":"Não tenho receio de manifestar a minha opinião, mesmo em face de interlocutores hostis.",
+            "grupo":"Assertivo",
+            "id":8
+        },
+        {
+            "afirmacao":"Quando há um debate, prefiro retrair-me e \"ver o que é que a coisa dá\".",
+            "grupo":"Manipulador",
+            "id":9
+        },
+        {
+            "afirmacao":"Várias vezes censuram-me por ter espirito de contradição.",
+            "grupo":"Agressivo",
+            "id":10
+        },
+        {
+            "afirmacao":"Tenho dificuldade em escutar os outros.",
+            "grupo":"Agressivo",
+            "id":11
+        },
+        {
+            "afirmacao":"Faço tudo o que posso para ficar no \"segredo dos deuses\" e tenho-me dado bem com isso.",
+            "grupo":"Manipulador",
+            "id":12
+        },
+        {
+            "afirmacao":"Consideram-me, em geral, bastante \"manhoso/a\" e hábil na relação com os outros.",
+            "grupo":"Manipulador",
+            "id":13
+        },
+        {
+            "afirmacao":"Mantenho com os outros relações mais fundadas sobre a confiança do que sobre a dominação ou o calculismo.",
+            "grupo":"Assertivo",
+            "id":14
+        },
+        {
+            "afirmacao":"Prefiro nunca pedir ajuda a um colega. Ele poderá pensar que eu não sou competente.",
+            "grupo":"Passivo",
+            "id":15
+        },
+        {
+            "afirmacao":"Sou tímido/a e tenho grandes bloqueios quando tenho que realizar uma acção pouco habitual.",
+            "grupo":"Passivo",
+            "id":16
+        },
+        {
+            "afirmacao":"Chamam-me \"sopinhas de leite\", fico enervado/a e isso faz rir os outros.",
+            "grupo":"Passivo",
+            "id":17
+        },
+        {
+            "afirmacao":"Sinto-me bastante \"à vontade\" nas relações face a face.",
+            "grupo":"Assertivo",
+            "id":18
+        },
+        {
+            "afirmacao":"Faço \"fitas\" muitas vezes; é a melhor maneira de conseguir o que quero.",
+            "grupo":"Manipulador",
+            "id":19
+        },
+        {
+            "afirmacao":"Sou um \"fala-barato\" e corto a palavra aos outros sem me dar conta disso.",
+            "grupo":"Agressivo",
+            "id":20
+        },
+        {
+            "afirmacao":"Sou ambicioso/a e estou pronto/a a fazer o que for necessário para realizar os meus objectivos.",
+            "grupo":"Agressivo",
+            "id":21
+        },
+        {
+            "afirmacao":"Em geral, sei o que é preciso fazer, isso é importante para ser bem sucedido/a.",
+            "grupo":"Manipulador",
+            "id":22
+        },
+        {
+            "afirmacao":"Em caso de desacordo procuro os compromissos realistas assentes na base dos interesses mútuos.",
+            "grupo":"Assertivo",
+            "id":23
+        },
+        {
+            "afirmacao":"Prefiro \"por as cartas na mesa\".",
+            "grupo":"Assertivo",
+            "id":24
+        },
+        {
+            "afirmacao":"Tenho tendência para deixar para mais tarde as coisas que tenho para fazer.",
+            "grupo":"Passivo",
+            "id":25
+        },
+        {
+            "afirmacao":"Deixo, muitas vezes, um trabalho a meio sem o acabar.",
+            "grupo":"Passivo",
+            "id":26
+        },
+        {
+            "afirmacao":"Em geral, mostro aquilo que sou, sem dissimular os meus sentimentos.",
+            "grupo":"Assertivo",
+            "id":27
+        },
+        {
+            "afirmacao":"É preciso fazerem muita coisa para me intimidarem.",
+            "grupo":"Agressivo",
+            "id":28
+        },
+        {
+            "afirmacao":"Meter medo aos outros pode ser um bom meio para garantir o poder.",
+            "grupo":"Agressivo",
+            "id":29
+        },
+        {
+            "afirmacao":"Quando \"me levam à certa\" uma vez, vingo-me na próxima.",
+            "grupo":"Agressivo",
+            "id":30
+        },
+        {
+            "afirmacao":"Quando se critica alguém, é muito eficaz censurar-lhe o facto de ele não seguir os seus próprios princípios. Forçamo-lo, assim, a estar de acordo.",
+            "grupo":"Manipulador",
+            "id":31
+        },
+        {
+            "afirmacao":"Sei tirar partido do \"sistema\", sou \"desenrascado/a\".",
+            "grupo":"Manipulador",
+            "id":32
+        },
+        {
+            "afirmacao":"Sou capaz de ser eu próprio, continuando a ser aceite socialmente.",
+            "grupo":"Assertivo",
+            "id":33
+        },
+        {
+            "afirmacao":"Quando não estou de acordo, sei dizê-lo desapaixonadamente e com clareza.",
+            "grupo":"Assertivo",
+            "id":34
+        },
+        {
+            "afirmacao":"Tenho a preocupação de não incomodar os outros.",
+            "grupo":"Passivo",
+            "id":35
+        },
+        {
+            "afirmacao":"Tenho sérias dificuldades em fazer opções.",
+            "grupo":"Passivo",
+            "id":36
+        },
+        {
+            "afirmacao":"Não gosto de ser a última pessoa dentro de um grupo a pensar de determinada maneira. Nesse caso prefiro não fazer afirmações.",
+            "grupo":"Passivo",
+            "id":37
+        },
+        {
+            "afirmacao":"Não tenho receio de falar em público.",
+            "grupo":"Assertivo",
+            "id":38
+        },
+        {
+            "afirmacao":"A vida é uma \"selva\".",
+            "grupo":"Agressivo",
+            "id":39
+        },
+        {
+            "afirmacao":"Não tenho receio de enfrentar os desafios perigosos e arriscados.",
+            "grupo":"Agressivo",
+            "id":40
+        },
+        {
+            "afirmacao":"Criar conflitos pode ser mais eficaz do que reduzir as tensões.",
+            "grupo":"Manipulador",
+            "id":41
+        },
+        {
+            "afirmacao":"A fraqueza é a melhor maneira de ganharmos confiança nas nossas relações com os outros.",
+            "grupo":"Manipulador",
+            "id":42
+        },
+        {
+            "afirmacao":"Sei escutar e não corto a palavra aos outros.",
+            "grupo":"Assertivo",
+            "id":43
+        },
+        {
+            "afirmacao":"Levo até ao fim aquilo que decidi fazer.",
+            "grupo":"Assertivo",
+            "id":44
+        },
+        {
+            "afirmacao":"Não tenho medo de exprimir os meus sentimentos, tal qual os sinto.",
+            "grupo":"Assertivo",
+            "id":45
+        },
+        {
+            "afirmacao":"Tenho geito \"para levar as pessoas\" e fazer impor as minhas ideias.",
+            "grupo":"Manipulador",
+            "id":46
+        },
+        {
+            "afirmacao":"O elogio ainda é um bom meio de se obter o que se pretende.",
+            "grupo":"Manipulador",
+            "id":47
+        },
+        {
+            "afirmacao":"Tenho dificuldade em controlar o tempo em que estou no uso da palavra.",
+            "grupo":"Agressivo",
+            "id":48
+        },
+        {
+            "afirmacao":"Sei manejar bem a ironia mordaz.",
+            "grupo":"Agressivo",
+            "id":49
+        },
+        {
+            "afirmacao":"Sou servil e tenho uma vida simples, ás vezes até me deixo explorar um pouco.",
+            "grupo":"Passivo",
+            "id":50
+        },
+        {
+            "afirmacao":"Gosto mais de observar do que participar.",
+            "grupo":"Passivo",
+            "id":51
+        },
+        {
+            "afirmacao":"Gosto mais de estar na \"geral\" do que na primeira fila.",
+            "grupo":"Passivo",
+            "id":52
+        },
+        {
+            "afirmacao":"Não penso que a manipulação seja uma solução eficaz.",
+            "grupo":"Assertivo",
+            "id":53
+        },
+        {
+            "afirmacao":"Não é necessário anunciar depressa demais as nossas intenções, isso pode causar-nos dissabores.",
+            "grupo":"Manipulador",
+            "id":54
+        },
+        {
+            "afirmacao":"Choco muitas vezes as pessoas com as minhas atitudes.",
+            "grupo":"Agressivo",
+            "id":55
+        },
+        {
+            "afirmacao":"Prefiro ser \"lobo\" a ser \"cordeiro\".",
+            "grupo":"Agressivo",
+            "id":56
+        },
+        {
+            "afirmacao":"A manipulação dos outros é muitas vezes a única maneira prática para obtermos o que queremos.",
+            "grupo":"Manipulador",
+            "id":57
+        },
+        {
+            "afirmacao":"Sei, em geral, protestar com eficácia, sem agressividade excessiva.",
+            "grupo":"Assertivo",
+            "id":58
+        },
+        {
+            "afirmacao":"Penso que os problemas não podem ser realmente resolvidos sem procurarmos as suas causas profundas.",
+            "grupo":"Passivo",
+            "id":59
+        },
+        {
+            "afirmacao":"Não gosto de ser mal visto.",
+            "grupo":"Passivo",
+            "id":60
+        }
+    ]
+}
