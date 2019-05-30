@@ -105,11 +105,10 @@ Gostei muito!
 
 <hr>
 
-
 <b>Agradeço a visita ao meu repositório!</b>
 
-Qualquer dúvida, estou à disposição.
+<b>Qualquer dúvida, estou à disposição.</b>
 
-Pedro Loureiro
+<b>Pedro Loureiro</b>
 
 "Practise is the mother of perfection"
