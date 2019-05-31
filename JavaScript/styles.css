@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  #titulo {
+    text-align: center;
+    top:0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #000;
+    color: #FFF;
+  }
+
+  #afirmacao {
+    background-color: #EEAD2D;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  #logic {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    width: 100%;
+    background-color: #CDCDCD;
+    margin-top: 15px;
+  }
+
+  #contador {
+      padding: 5px;
+  }
+
+  #info{
+    padding: 5px;
+  }
+
+  .sim {
+    background-color: green;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 5px;
+    color: #FFF;
+  }
+
+  .nao {
+    background-color: red;
+    text-align: right;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 5px;
+    color: #FFF;
+  }
+
+  #resultados {
+    background-color: #CDCDCD;
+    color: #000;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+  }
+
+  #resultados p {
+    padding: 5px;
+  }
+
+  #fonte {
+    padding-top: 5px;
+    background-color: #000;
+    color: #FFF;
+    font-style: italic;
+  }
+
+  #credits {
+    text-align:center;
+    background-color: #000;
+    color: #FFF;
+    width: 100%;
+    opacity: 0.8;
+  }
