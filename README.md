@@ -99,6 +99,12 @@ Gostei muito!
 
 <hr>
 
+<b>Versão desktop com interface gráfica:</b>
+
+- Criei esta versão com <b>JavaScript</b> e a framework <b>Electron</b>. Na pasta de JavaScript encontram os ficheiros principais da aplicação assim como uma screenshot da mesma.
+
+<hr>
+
 <b>Próximas aventuras:</b>
 
 - Traduzir isto tudo para Inglês.
