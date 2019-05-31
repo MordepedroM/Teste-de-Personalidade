@@ -1,0 +1,20 @@
+{
+  "name": "teste-de-personalidade",
+  "version": "1.0.0",
+  "description": "Descobre o teu tipo de personalidade",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . electron-testePersonalidade-app --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"testePersonalidade\"",
+    "package-linux": "electron-packager . electron-testePersonalidade-app --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds"
+  },
+  "author": "Pedro Loureiro",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^13.1.1"
+  }
+}
