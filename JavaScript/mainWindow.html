@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt">
+
+<head>
+  <meta charset="utf-8" />
+
+  <title>Teste Personalidade</title>
+  <meta name="description" content="Descobre o teu tipo de Personalidade">
+  <meta name="author" content="Pedro Loureiro, pedro@antro.pt">
+  <meta name="robots" content="index,follow" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name=”keywords” content="antro, Pedro Loureiro, teste de personalidade, Teste Personalidade" />
+
+
+  <link rel="stylesheet" href="styles.css?v=1.0">
+
+  <script type="text/javascript" src="testePersonalidade.js"></script>
+</head>
+
+<body>
+
+    <h2 id="titulo">Teste de Personalidade</h2>
+
+    <div id="afirmacao">
+      <ul id="x">
+
+      </ul>
+    </div>
+
+    <div id="logic">
+      <input class="sim" id="sim" type='radio' value='sim' name="resposta">
+      <label class="sim" id="lbls" for="sim"><b>Sim</b></label>
+      <input class="nao" id="nao" type='radio' value='nao' name="resposta">
+      <label class="nao" id="lbln" for="nao"><b>Não</b></label>
+      <p id="contador">__</p>
+      <p id="info">Responde <b>SIM</b> caso te identifiques com a afirmação ou <b>NÃO</b> caso não te identifiques.</p>
+      <button id="bPrincipal" onclick="proximaPergunta()">Começar o teste</button>
+      <button id="repetir" value="Refresh Page" onClick="window.location.reload();">Repetir teste</button>
+    </div>
+
+
+    <div id="resultados">
+      <p><b>Resultados:</b></p>
+
+      <p id="resultadoAssertividade"><b>Atitude assertiva ou de auto-afirmação:</b> Completa o teste para saberes o teu resultado!</p>
+      <p id="resultadoManipulacao"><b>Atitude de manipulação:</b> Completa o teste para saberes o teu resultado!</p>
+      <p id="resultadoAgressividade"><b>Atitude autoritária ou agressiva:</b> Completa o teste para saberes o teu resultado!</p>
+      <p id="resultadoPassividade"><b>Atitude passiva ou de fuga:</b> Completa o teste para saberes o teu resultado!</p>
+
+      <p>*Entre 0 e 5 a intensidade no grupo de personalidade respectivo é considerada baixa, entre 5 e 10 média e de 10 a 15 é alta!</p>
+      <p id ="fonte">Fonte do teste: "L´affirmation de soi(5ªed.), Les Editions E.S.F.,Paris" de Chalvin, Dominique.</p>
+      <p id="credits">Developed by Pedro Loureiro</p>
+    </div>
+    
+</body>
