@@ -89,6 +89,8 @@ Gostei muito!
 
 - A versão feita em <b>JavaScript</b> encontra-se em https://mordepedrom.github.io/Teste-de-Personalidade/
 
+ :white_check_mark: Disponível. A precisar de um CSS responsivo e mais umas coisinhas mas está operacional. 
+
 <b>notas:</b>Existe um ficheiro <b>.JSON</b> associado ao site com todas as afirmações e respectivos grupos de personalidade. 
 
 <hr>
@@ -97,11 +99,15 @@ Gostei muito!
 
 - A versão feita em <b>Kotlin</b> encontra-se em https://play.google.com/store/apps/details?id=pt.antro.testedepersonalidade
 
+:white_check_mark: Disponível
+
 <hr>
 
 <b>Versão desktop com interface gráfica:</b>
 
 - Criei esta versão com <b>JavaScript</b> e a framework <b>Electron</b>. Na pasta de JavaScript encontram os ficheiros principais da aplicação assim como uma screenshot da mesma.
+
+:red_circle: Não estou a distribuir esta versão. /play noooo
 
 <hr>
 
