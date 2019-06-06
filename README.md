@@ -7,14 +7,14 @@ O teste de personalidade provém de,<br>
 
 #### <b>Contexto..</b>
 
-Durante uma formação de Java fui presenciado com um seminário. O seminário foi dado por uma senhora
+Durante uma formação de **Java** fui presenciado com um seminário. O seminário foi dado por uma senhora
 da área de recursos humanos. E grande parte do seminário foi passado a responder a este mesmo teste
 com caneta esferográfica. No final do teste somei as minhas respostas na folha. 
 
 Passado algum tempo, estava eu a mexer em pastas antigas e a organizar documentos, quando me deparei 
 com o dito teste cheio de rabiscos da caneta esferográfica. 
 
-Eu pessoalmente nem sequer concordo com este tipo de testes. Sei de várias empresas
+**Eu pessoalmente nem sequer concordo com este tipo de testes.** Sei de várias empresas
 que os usam no recrutamento. Mesmo antes de uma entrevista presencial solicitam aos candidatos
 que respondam a testes deste género. E quando não é o teste é o fulano ou fulana dos recursos humanos
 a analisar as mesmas coisas. De uma forma ou outra acabamos como números numa base de dados algures.
@@ -29,9 +29,11 @@ E como tál.. Porque não?
 
 Repliquei o teste em diferentes linguagens de programação e plataformas. 
 
-Não recolho dados dos utilizadores em nenhuma. 
+~~Não recolho dados dos utilizadores em nenhuma.~~ Por **enquanto** (data: 06/06/19).. Tenho andado a trabalhar em updates
+para a versão mobile e vou passar a armazenar alguns dados como "Nome, Email, Resultados" e também incluir
+anúncios na aplicação de forma a monetizar. Ainda não me decidi, pode ser que implemente ou não. 
 
-Todas as versões são grátis. 
+Todas as versões são grátis.  :heavy_check_mark:
 
 Sugiro que experimentem. Pratiquem essa "assertividade" para a próxima entrevista de programação
 com o fulan@ dos recursos humanos  :innocent:
@@ -81,7 +83,7 @@ humanos a lê-lo.
 ```GO
 afirmacoes := make(map[string]string)
 ```
-Gostei muito! 
+Gostei muito!  :+1:
 
 <hr>
 
@@ -107,7 +109,7 @@ Gostei muito!
 
 - Criei esta versão com <b>JavaScript</b> e a framework <b>Electron</b>. Na pasta de JavaScript encontram os ficheiros principais da aplicação assim como uma screenshot da mesma.
 
-:red_circle: Não estou a distribuir esta versão. 
+ :negative_squared_cross_mark: Não estou a distribuir esta versão. 
 
 <hr>
 
