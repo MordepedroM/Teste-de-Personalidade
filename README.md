@@ -34,7 +34,7 @@ Não recolho dados dos utilizadores em nenhuma.
 Todas as versões são grátis. 
 
 Sugiro que experimentem. Pratiquem essa "assertividade" para a próxima entrevista de programação
-com o fulan@ dos recursos humanos :,,))  
+com o fulan@ dos recursos humanos  :innocent:
 
 Ou então podem limitar-se a ver as variações no código, de linguagem para linguagem. 
 
