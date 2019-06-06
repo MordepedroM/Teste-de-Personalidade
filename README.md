@@ -43,7 +43,7 @@ Espero que gostem do projecto.
 
 Irónicamente até á data não fiz o teste em Java.
 
-:) 
+ :cold_sweat: 
 
  
 <hr>
