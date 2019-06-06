@@ -107,7 +107,7 @@ Gostei muito!
 
 ## <b>Próximas aventuras:</b>
 
-- Traduzir isto tudo para Inglês.
+- Traduzir isto tudo para Inglês. :scream:
 
 <hr>
 
