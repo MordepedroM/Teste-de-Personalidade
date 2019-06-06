@@ -1,7 +1,7 @@
 # Teste de Personalidade
 O mesmo teste de personalidade em várias linguagens e plataformas. 
 O teste de personalidade provém de,<br> 
-<b>"L´affirmation de soi(5ªed.), Les Editions E.S.F.,Paris" de Chalvin, Dominique.<br></b>
+><b>"L´affirmation de soi(5ªed.), Les Editions E.S.F.,Paris" de Chalvin, Dominique.<br></b>
 
 <hr>
 
