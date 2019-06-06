@@ -5,7 +5,7 @@ O teste de personalidade provém de,<br>
 
 <hr>
 
-<b>Contexto..</b>
+####<b>Contexto..</b>
 
 Durante uma formação de Java fui presenciado com um seminário. O seminário foi dado por uma senhora
 da área de recursos humanos. E grande parte do seminário foi passado a responder a este mesmo teste
@@ -48,7 +48,7 @@ Irónicamente até á data não fiz o teste em Java.
  
 <hr>
 
-<b>Como funciona o teste:</b>
+##<b>Como funciona o teste:</b>
 
 Existem 4 grupos de personalidade:<br>
 Assertiva; Agressiva; Passiva; Manipuladora.
@@ -61,7 +61,7 @@ A intensidade pode ser <b>"BAIXA"</b>, <b>"MÉDIA"</b> ou <b>"ALTA"</b>.
 
 <hr>
 
-<b>Versões de Consola:</b>
+##<b>Versões de Consola:</b>
 
 - <b>Python</b> 
 
@@ -85,7 +85,7 @@ Gostei muito!
 
 <hr>
 
-<b>Versão Web:</b>
+##<b>Versão Web:</b>
 
 - A versão feita em <b>JavaScript</b> encontra-se em https://mordepedrom.github.io/Teste-de-Personalidade/
 
@@ -93,7 +93,7 @@ Gostei muito!
 
 <hr>
 
-<b>Versão Android:</b>
+##<b>Versão Android:</b>
 
 - A versão feita em <b>Kotlin</b> encontra-se em https://play.google.com/store/apps/details?id=pt.antro.testedepersonalidade
 
@@ -105,7 +105,7 @@ Gostei muito!
 
 <hr>
 
-<b>Próximas aventuras:</b>
+##<b>Próximas aventuras:</b>
 
 - Traduzir isto tudo para Inglês.
 
@@ -115,6 +115,6 @@ Gostei muito!
 
 <b>Qualquer dúvida, estou à disposição.</b>
 
-<b>Pedro Loureiro</b>
+#####<b>Pedro Loureiro</b>
 
 "Practise is the mother of perfection"
