@@ -107,7 +107,7 @@ Gostei muito!
 
 - Criei esta versão com <b>JavaScript</b> e a framework <b>Electron</b>. Na pasta de JavaScript encontram os ficheiros principais da aplicação assim como uma screenshot da mesma.
 
-:red_circle: Não estou a distribuir esta versão. ► /play noooo
+:red_circle: Não estou a distribuir esta versão. /play noooo
 
 <hr>
 
