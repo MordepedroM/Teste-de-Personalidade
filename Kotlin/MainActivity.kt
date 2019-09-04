@@ -152,11 +152,6 @@ class MainActivity : AppCompatActivity() {
                  agressividade = 0
                  manipulacao = 0
                  acertividade = 0
-             } else if (nao.isChecked) {
-                 x++
-                 y++
-                 contagem.text = "$y / 60"
-                 afirmacao.text = perguntas[x]
              } else if (nao.isChecked && x == 59) {
                  contagem.text = "Resultados"
                  sim.visibility = View.INVISIBLE
@@ -171,6 +166,11 @@ class MainActivity : AppCompatActivity() {
                  agressividade = 0
                  manipulacao = 0
                  acertividade = 0
+             } else if (nao.isChecked) {
+                 x++
+                 y++
+                 contagem.text = "$y / 60"
+                 afirmacao.text = perguntas[x]
                     }
                 }
             }
