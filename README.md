@@ -126,3 +126,8 @@ Gostei muito!  :+1:
 ##### <b>Pedro Loureiro</b>
 
 >"Practise is the mother of perfection!"
+
+```diff
+----------------------------------------
+---------------------------------------- 
+```
