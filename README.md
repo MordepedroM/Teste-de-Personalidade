@@ -8,6 +8,8 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ----------------------------------------------------------------------------------------------------------
 ```
+Translate:[English](https://github.com/MordepedroM/Teste-de-Personalidade/edit/master/README.eng.md)
+
 # Teste de Personalidade
 O mesmo teste de personalidade em várias linguagens e plataformas. 
 O teste de personalidade provém de,<br> 
