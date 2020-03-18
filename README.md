@@ -8,7 +8,7 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ----------------------------------------------------------------------------------------------------------
 ```
-Translate:[English](https://github.com/MordepedroM/Teste-de-Personalidade/master/READMEeng.md)
+Translate:[English](https://github.com/MordepedroM/Teste-de-Personalidade/blob/master/READMEeng.md)
 
 # Teste de Personalidade
 O mesmo teste de personalidade em várias linguagens e plataformas. 
