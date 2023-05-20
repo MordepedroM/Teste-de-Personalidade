@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt">
 
 <head>
@@ -19,12 +19,13 @@
 </head>
 
 <body>
+<div class="container">
   <h1>Teste de Personalidade</h1>
   <p>Este Teste de personalidade é baseado em:</p>
   <br>
   <h4>Chalvin, Dominique, "L´affirmation de soi(5ªed.), Les Editions E.S.F.,Paris"</h4>
   <br><br>
-
+ 	<div id="hide">
   <hr>
   <br>
   <ul id="x">
@@ -32,45 +33,49 @@
   </ul>
 
   <br><br>
+ 		<div id="simNao">
+  <input id="sim" type="radio" value="sim" name="resposta">
+  <label id="lbls" for="sim"><b>Sim</b></label>
+  <span class="separator">ou</span> <!-- Wrap "ou" in a <span> element -->
+  <input id="nao" type="radio" value="nao" name="resposta">
+  <label id="lbln" for="nao"><b>Não</b></label>
+  	</div>
+		</div>
 
-  <input id="sim" type='radio' value='sim' name="resposta">
-        <label id="lbls" for="sim"><b>Sim</b></label>
-        <br><br>
-        <p id="ou">ou</p>
-        <br>
-  <input id="nao" type='radio' value='nao' name="resposta">
-        <label id="lbln" for="nao"><b>Não</b></label>
-  
+
+
+
+
   <br><br>
-  <p id="contador">__</p>
+  <p id="contador"></p>
   <br>
 
   <p id="info">Responde <b>SIM</b> caso te identifiques com a afirmação ou <b>NÃO</b> caso não te identifiques.</p>
 
   <br><br>
-  
+
   <button id="bPrincipal" onclick="proximaPergunta()">Começar o teste</button>
   <button id="repetir" value="Refresh Page" onClick="window.location.reload();">Repetir teste</button>
  
 <br><br>  
 <p><b>Resultados:</b></p>
 <br>
-<p id="resultadoAssertividade"><b>Atitude assertiva ou de auto-afirmação:</b> Completa o teste para saberes o teu resultado!</p>
-<br>
-<p id="resultadoManipulacao"><b>Atitude de manipulação:</b> Completa o teste para saberes o teu resultado!</p>
-<br>
-<p id="resultadoAgressividade"><b>Atitude autoritária ou agressiva:</b> Completa o teste para saberes o teu resultado!</p>
-<br>
-<p id="resultadoPassividade"><b>Atitude passiva ou de fuga:</b> Completa o teste para saberes o teu resultado!</p>
+<div class="result-container">
+  <p id="resultadoAssertividade"><b>Atitude assertiva ou de auto-afirmação:</b> Completa o teste para saberes o teu resultado!</p>
+  <p id="resultadoManipulacao"><b>Atitude de manipulação:</b> Completa o teste para saberes o teu resultado!</p>
+  <p id="resultadoAgressividade"><b>Atitude autoritária ou agressiva:</b> Completa o teste para saberes o teu resultado!</p>
+  <p id="resultadoPassividade"><b>Atitude passiva ou de fuga:</b> Completa o teste para saberes o teu resultado!</p>
+</div>
 <br>
 <p>*Entre 0 e 5 a intensidade no grupo de personalidade respectivo é considerada baixa, entre 5 e 10 média e de 10 a 15 é alta!</p>
 <hr>
+
   
    
 <br><br>
-<a href="https://play.google.com/store/apps/details?id=pt.antro.testedepersonalidade">Se gostou do teste porque não descarregar a aplicação para android? =)</a>
-
-
+<a href="https://play.google.com/store/apps/details?id=pt.antro.testedepersonalidade">versão android</a>
+<p>Developed by Pedro Loureiro</p>
+</div>
 </body>
 
 </html>
