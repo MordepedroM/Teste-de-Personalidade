@@ -110,10 +110,10 @@ if(document.getElementById('sim').checked == true || document.getElementById('na
             document.getElementById("bPrincipal").style.display = 'none';
             document.getElementById("sim").style.display = 'none';
             document.getElementById("nao").style.display = 'none';
-            document.getElementById("ou").style.display = 'none';
             document.getElementById("info").style.display = 'none';  
             document.getElementById("lbls").style.display = 'none';
-            document.getElementById("lbln").style.display = 'none';        
+            document.getElementById("lbln").style.display = 'none'; 
+            document.getElementById("hide").style.display = 'none';     
         }else if(document.getElementById('nao').checked && a == 60){
             document.getElementById("contador").innerHTML = "";        
             document.getElementById("resultadoAssertividade").innerHTML = "Atitude assertiva ou de auto-afirmação: " + assertividade;
@@ -123,17 +123,17 @@ if(document.getElementById('sim').checked == true || document.getElementById('na
             document.getElementById("bPrincipal").style.display = 'none';
             document.getElementById("sim").style.display = 'none';
             document.getElementById("nao").style.display = 'none';
-            document.getElementById("ou").style.display = 'none';
             document.getElementById("info").style.display = 'none';
             document.getElementById("lbls").style.display = 'none';
             document.getElementById("lbln").style.display = 'none';
+            document.getElementById("hide").style.display = 'none';
         }else{
             a++;
             document.getElementById("contador").innerHTML = a +  " / 60";
         }
 }          
 }
-
+/*
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {       
@@ -141,4 +141,4 @@ xhttp.onreadystatechange = function() {
     }
 };
 xhttp.open("GET", "testePersonalidade.json", true);
-xhttp.send();
+xhttp.send();*/
