@@ -3,23 +3,129 @@
 }
 
 * {
-margin: 0px;
-padding: 0px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(170deg, rgba(49, 57, 73, 0.8) 20%, rgba(49, 57, 73, 0.5) 20%, rgba(49, 57, 73, 0.5) 35%, rgba(41, 48, 61, 0.6) 35%, rgba(41, 48, 61, 0.8) 45%, rgba(31, 36, 46, 0.5) 45%, rgba(31, 36, 46, 0.8) 75%, rgba(49, 57, 73, 0.5) 75%), linear-gradient(45deg, rgba(20, 24, 31, 0.8) 0%, rgba(41, 48, 61, 0.8) 50%, rgba(82, 95, 122, 0.8) 50%, rgba(133, 146, 173, 0.8) 100%) #313949;
+  padding: 5px;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  background-color: #FFF;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  margin: 20px; /* Added margin to reduce top and bottom spacing */
+  height: 100%;
+}
+
+h4 {
+  border: 1px solid #000;
+  border-radius: 5px;
+  background: #FFF;
+  opacity: 1;
+  width: 100%;
+  max-width: 400px;
   text-align: center;
-  background-color: var(--bgColorContent);
+  margin-bottom: 20px;
+  padding: 10px;
 }
 
-#sim {
-  display:none;
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
 }
 
-#nao {
-  display:none;
+a:link {
+  color: lightblue;
 }
 
-#repetir{
-  display:none;
+a:visited {
+  color: #060235;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: #C0F0FC;
+}
+
+#sim,
+#nao,
+#repetir {
+  display: none;
+}
+
+#results {
+  margin-top: 20px;
+  text-align: center; /* Add text-align: center to center the content */
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #000;
+  margin: 10px 0;
+  width: 100%;
+}
+
+#simNao {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto;
+}
+
+#lbls,
+#lbln {
+  margin: 5pxpx; /* Adjust the margin as per your preference */
+}
+
+#ou {
+  margin: 10px 0;
+}
+
+
+.result-container {
+  text-align: left;
+}
+
+.result-container p {
+  margin: 10px 0;
+}
+
+.separator {
+  margin: 0 5px; /* Adjust the margin value as needed */
 }
