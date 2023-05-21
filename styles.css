@@ -29,7 +29,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-grow: 1;
-  margin: 20px; /* Added margin to reduce top and bottom spacing */
+  margin: 20px; 
   height: 100%;
 }
 
@@ -79,7 +79,7 @@ a:active {
 
 #results {
   margin-top: 20px;
-  text-align: center; /* Add text-align: center to center the content */
+  text-align: center; 
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -110,7 +110,7 @@ hr {
 
 #lbls,
 #lbln {
-  margin: 5pxpx; /* Adjust the margin as per your preference */
+  margin: 5pxpx; 
 }
 
 #ou {
