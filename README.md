@@ -28,8 +28,7 @@ A intensidade pode ser <b>"BAIXA"</b>, <b>"MÉDIA"</b> ou <b>"ALTA"</b>.
 <b>notas:</b>Foi a primeira versão que fiz. É possivél fazer este teste de diversas maneiras. Eu acho esta plausível.
 Depois de ter feito a versão em GO fiquei com alguma vontade de refazer o código em Python, reduzir o tamanho do ficheiro
 e usar outra abordagem porém já investi muito tempo nisto. E não considero este projecto como uma competição entre linguagens
-mas sim uma brincadeira que serviu para estudar e praticar. Também fica bem no portefólio, contando que não seja ninguem dos recursos
-humanos a lê-lo.   
+mas sim uma brincadeira que serviu para estudar e praticar. Também fica bem no portefólio.
 
 - <b>C++</b>
 
@@ -49,7 +48,7 @@ Gostei muito!  :+1:
 
 - A versão feita em <b>JavaScript</b> encontra-se em https://mordepedrom.github.io/Teste-de-Personalidade/
 
- :white_check_mark: **Disponível** A precisar de um CSS responsivo e mais umas coisinhas mas está operacional. 
+ :white_check_mark: **Disponível** 
 
 <b>notas:</b>Existe um ficheiro <b>.JSON</b> associado ao site com todas as afirmações e respectivos grupos de personalidade. 
 
